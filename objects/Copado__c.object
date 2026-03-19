@@ -195,4 +195,15 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <!--Test__c-->
+    <fields>
+        <fullName>Test__c</fullName>
+        <externalId>false</externalId>
+        <label>Test</label>
+        <length>10</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
 </CustomObject>
