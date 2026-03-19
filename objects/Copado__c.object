@@ -184,6 +184,7 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <!--Version_Series__c-->
     <fields>
         <fullName>Version_Series__c</fullName>
         <externalId>false</externalId>
