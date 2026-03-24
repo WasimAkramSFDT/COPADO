@@ -217,4 +217,15 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <!--Test_Copado_Text__c-->
+    <fields>
+        <fullName>Test_Copado_Text__c</fullName>
+        <externalId>false</externalId>
+        <label>Test_Copado_Text</label>
+        <length>10</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
 </CustomObject>
